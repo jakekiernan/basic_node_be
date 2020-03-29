@@ -3,7 +3,7 @@ basic_node_be
 set up:
 
 run: `cd /data/db && sudo mongod`
-in another window, at project root run `nodemon server.js`
+in another window, at project root run `node server.js`
 
 hit api with:
 
